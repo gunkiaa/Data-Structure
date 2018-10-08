@@ -2,6 +2,10 @@ package sort;
 
 import java.util.ArrayList;
 
+/**
+ * @author kimgun
+ * @date 2018.10.08
+ */
 public class BubbleSort {
 	public static void main(String[] args) {
 		ArrayList<Integer> list = new ArrayList<Integer>();
